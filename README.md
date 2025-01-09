@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development.
 - 🌱 I’m currently learning Python.
 
-- **My skilss**
+- **My love language**
 - ![image](https://github.com/user-attachments/assets/1172ffca-f7a0-46d2-a6c5-603a813c472b)
 
 
