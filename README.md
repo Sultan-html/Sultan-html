@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Sultan.
 - 👀 I’m interested in backend development.
 - 🌱 I’m currently learning Python.
+  
 
-- **My love**
+- **My love in world**
 - ![image](https://github.com/user-attachments/assets/0561be21-ee12-4f3b-a879-6ccd4e703521)
 
 
